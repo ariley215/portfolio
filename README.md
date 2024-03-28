@@ -2,5 +2,7 @@
 
 Make it your own! 
 
-[https://301-portfolio-andrea.netlify.app](My Portfolio)
+[https://301-portfolio-andrea.netlify.app]
+
+(My Portfolio)
 
