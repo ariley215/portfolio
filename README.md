@@ -1,8 +1,5 @@
-# Modify this portfolio
 
-Make it your own! 
+# My Portfolio Site
 
-[https://301-portfolio-andrea.netlify.app]
 
-(My Portfolio)
-
+[My Portfolio](https://301-portfolio-andrea.netlify.app)

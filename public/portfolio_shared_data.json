@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Andrea Thiel",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Code Artisan & Innovator " ],
       "social": [
         {
           "name": "github",
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfile.jpeg"
     },
     "skills": {
       "icons": [

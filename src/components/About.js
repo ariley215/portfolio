@@ -7,14 +7,14 @@ import vueIcon from "@iconify/icons-logos/vue";
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
-      var profilepic = "images/" + this.props.sharedBasicInfo.image;
+      var profilepic = "public/images/myProfile.jpeg"
     }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
       var about = this.props.resumeBasicInfo.description;
     }
-
+  
     return (
       <section id="about">
         <div className="col-md-12">
