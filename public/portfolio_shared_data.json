@@ -1,16 +1,16 @@
 {
     "basic_info": {
-      "name": "Andrea Thiel",
+      "name": "Andrea Riley",
       "titles": [ "Code Artisan & Innovator " ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com/ariley215",
+          "url": "https://github.com/ariley215/",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "linkedin",
+          "url": "https://www.linkedin/in/and-riley/",
           "class": "fab fa-instagram"
         }
       ],
